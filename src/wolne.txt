@@ -1,0 +1,19 @@
+# Kolejne dni wolne od pracy należy umieszczać w kolejnych liniach tekstu
+# według schematu [dd-mm], gdzie [dd] to dzień a [mm] to miesiąc
+# np. 20-05 oznacza 20 maja.
+# Wszystko co znajduje się po średniku (;) jest komentarzem użytkownika.
+# Linia tekstu rozpoczynająca się od hashtagu (#) jest ignorowana.
+# Dni wolne od pracy w roku 2019 to:
+01-01;  Nowy Rok
+06-01;  Święto Trzech Króli
+21-04;  Wielkanoc
+22-04;  Poniedziałek Wielkanocny
+01-05;  Święto Pracy
+03-05;  Święto Konstytucji 3 Maja
+09-06;  Zielone Świątki
+20-06;  Boże Ciało
+15-08;  Wniebowzięcie Najświętszej Maryi Panny
+01-11;  Wszystkich Świętych
+11-11;  Święto Niepodległości
+25-12;  Pierwszy dzień Bożego Narodzenia
+26-12;  Drugi dzień Bożego Narodzenia
